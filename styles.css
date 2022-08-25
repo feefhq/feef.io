@@ -7,3 +7,16 @@ html {
   font-size: 18px;
   line-height: 1.5;
 }
+
+html > body {
+  margin: 0;
+}
+
+html > body > strong {
+  font-weight: 700;
+}
+
+html > body main {
+  margin: 0 2ch;
+  padding: 1rem 2ch;
+}

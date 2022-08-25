@@ -1,0 +1,14 @@
+.header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  margin: 0 2ch;
+  padding: 1rem 2ch;
+}
+
+.header h1 {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+}
+
+

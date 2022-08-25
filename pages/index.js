@@ -1,7 +1,11 @@
+import Cursor from '../components/Cursor'
+
 const HomePage = () => {
   return (
     <div>
-      <h1>Feef</h1>
+      Waiting...
+      <Cursor />
+      <br />
     </div>
   )
 }
