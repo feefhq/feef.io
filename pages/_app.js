@@ -1,3 +1,4 @@
+import '@fontsource/jetbrains-mono'
 import '../styles.css'
 
 const App = ({ Component, pageProps }) => {

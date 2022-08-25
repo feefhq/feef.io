@@ -1,4 +1,9 @@
 html {
-  background-color: rgb(41, 41, 41);
-  color: rgba(203, 203, 203, 0.9);
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  background-color: rgb(26, 27, 30);
+  color: rgba(203, 203, 203, 1);
+  font-family: "JetBrains Mono";
+  font-size: 18px;
+  line-height: 1.5;
 }
