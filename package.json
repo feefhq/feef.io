@@ -1,0 +1,10 @@
+{
+  "name": "feef.io",
+  "version": "1.0.0",
+  "description": "The Feef website",
+  "main": "index.js",
+  "repository": "https://github.com/feefhq/feef.io.git",
+  "author": "philp <phil@feef.io>",
+  "license": "AGPL-3.0",
+  "private": false
+}
