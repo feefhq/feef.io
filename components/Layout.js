@@ -6,6 +6,10 @@ const Layout = ({ children }) => {
     <>
       <Head>
         <title>Feef.io</title>
+        <meta
+          content='The feef.io website will be starting soon.'
+          name='description'
+        />
       </Head>
       <Header />
       <main>{children}</main>
