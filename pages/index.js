@@ -5,8 +5,8 @@ const HomePage = () => {
     <div>
       <section>
         <p class='abstract'>
-          I'm Phillip Powell. I design and engineer web apps, using modern web
-          technologies, and with a focus on exceptional user experience.
+          I&apos;m Phillip Powell. I design and engineer web apps, using modern
+          web technologies, and with a focus on exceptional user experience.
         </p>
         <p>
           My natural habitat is the browser, working with modern JavaScript,
@@ -20,13 +20,13 @@ const HomePage = () => {
         </p>
         <p>
           I bring over two decades of experience to my craft, and possess a
-          broad range of skills. I'm an experienced leader and articulate
-          communicator. I'm as comfortable working autonomously as I am as part
-          of a team.
+          broad range of skills. I&apos;m an experienced leader and articulate
+          communicator. I&apos;m as comfortable working autonomously as I am as
+          part of a team.
         </p>
         <p>
-          Oh, and I've won an award or two in my time, including a Cannes Lion
-          award and a BAFTA nomination.
+          Oh, and I&apos;ve won an award or two in my time, including a Cannes
+          Lion award and a BAFTA nomination.
         </p>
         <p>
           <a href='https://www.linkedin.com/in/pmpowell/'>
